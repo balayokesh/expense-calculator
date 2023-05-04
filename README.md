@@ -1,2 +1,2 @@
 # ExpenseCalculator
-Keeping track of our money expenses will help us to save money and know how it was being spent
+An updated version of this application is being creted in a new repository, this repository will be deleted soon.
